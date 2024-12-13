@@ -9,7 +9,7 @@
       n(15), n(63), n(26);
       (window.firebase = r),
         r.initializeApp({
-          
+          apiKey: "AIzaSyD2APPEyxCi9vB2olvUgzSsbgH1Pyz-as0",
           storageBucket: "sandtable-8d0f7.appspot.com",
           authDomain: "sandspiel.club",
           projectId: "sandtable-8d0f7",
